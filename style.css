@@ -63,6 +63,8 @@ background-color: #b1b7df;
 /* Tartalom */
 
 #content {
+	background-color: white;
+	padding: 10px;
 	margin-bottom: 10px;
 
 }
