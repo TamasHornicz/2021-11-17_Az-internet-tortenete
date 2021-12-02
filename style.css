@@ -49,9 +49,11 @@ background-color: #cddbeb;
 
 #nav a {
 	display: block;
+	width: 150px;
 	text-decoration: none;
 	padding: 0.5em 0;
 	font-weight: bold;
+	text-align: center;
 }
 
 #nav a:hover {
