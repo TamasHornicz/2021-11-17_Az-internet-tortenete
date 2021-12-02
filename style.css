@@ -33,6 +33,7 @@ a, a:link, a:visited, a:active {
 
 #nav {
 	margin-bottom: 10px;
+background-color: #cddbeb;
 }
 
 #nav ul {
@@ -54,7 +55,7 @@ a, a:link, a:visited, a:active {
 }
 
 #nav a:hover {
-
+background-color: #b1b7df;
 }
 
 /* Tartalom */
