@@ -71,6 +71,8 @@ background-color: #b1b7df;
 
 /*Lábléc  */
 #footer {
+	padding: 10;
+	background-color: #cddbeb;
 	margin-bottom: 10px;
 }
 
